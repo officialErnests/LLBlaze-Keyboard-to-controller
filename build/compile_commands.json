@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/n0o0b090lv/DEV/LANG/Cpp/llbControllers/build",
+  "command": "clang++  -I/home/n0o0b090lv/DEV/LANG/Cpp/llbControllers/src -isystem /nix/store/svd6ibmyw8bz6dmn3hqzgg6dza5iqlbp-libevdev-1.13.6/include/libevdev-1.0 -std=gnu++20 -o CMakeFiles/llblaze_inputer.dir/src/main.cpp.o -c /home/n0o0b090lv/DEV/LANG/Cpp/llbControllers/src/main.cpp",
+  "file": "/home/n0o0b090lv/DEV/LANG/Cpp/llbControllers/src/main.cpp",
+  "output": "CMakeFiles/llblaze_inputer.dir/src/main.cpp.o"
+}
+]

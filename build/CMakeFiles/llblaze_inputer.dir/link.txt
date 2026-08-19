@@ -1,0 +1,1 @@
+clang++ -Wl,--dependency-file=CMakeFiles/llblaze_inputer.dir/link.d CMakeFiles/llblaze_inputer.dir/src/main.cpp.o -o llblaze_inputer  /nix/store/svd6ibmyw8bz6dmn3hqzgg6dza5iqlbp-libevdev-1.13.6/lib/libevdev.so
